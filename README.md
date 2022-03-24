@@ -4,9 +4,5 @@ A Real game which you can play with a friends. So if you roll the dice, the numb
 
 
 
-https://user-images.githubusercontent.com/83874139/160009001-3a9ef804-da35-488b-833b-6aefcf130c8e.mp4
-
-
-
 https://user-images.githubusercontent.com/83874139/160009613-7b6f9098-7b35-41b5-b228-32a535e75ac1.mov
 
